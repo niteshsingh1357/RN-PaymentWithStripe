@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "506912977531",
+    "firebase_url": "https://payment-with-stripe.firebaseio.com",
+    "project_id": "payment-with-stripe",
+    "storage_bucket": "payment-with-stripe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506912977531:android:036af87fcfa848eab4e8de",
+        "android_client_info": {
+          "package_name": "com.payment_with_stripe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506912977531-8tgd6mrc932504rskupfu4procasdmuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEh4KI3k2uB7aorZmHVKvIpKdn2AL_FkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506912977531-8tgd6mrc932504rskupfu4procasdmuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
